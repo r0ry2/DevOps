@@ -61,5 +61,3 @@ Conclusion :
 The focus of this project is not on AI itself, but on building the reliable environment that enables AI to run efficiently and continuously.
 
 
-
-
